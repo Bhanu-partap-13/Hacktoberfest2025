@@ -70,3 +70,16 @@ lookup = {
 print('All distances between u and v (or clouds/strings):\n')
 for k, v in lookup.items():
     print(f'{k:15} : {v:.4f}')
+
+
+"""Euclidean – default geometry
+Manhattan – grid / sparse features
+Mahalanobis – correlated features / elliptic clusters
+Minkowski – general Lp geometry (p=1→Manhattan, p=2→Euclidean)
+Chebyshev – chess-board moves / max coordinate error
+Hamming – bit-flips / categorical symbols
+Jaccard – set similarity (0/1 baskets)
+Cosine – text / embeddings (ignore magnitude)
+Correlation – shape similarity of time-series
+Hausdorff – shape matching between clouds
+Levenshtein – spell-check / DNA / string similarity"""
