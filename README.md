@@ -1,9 +1,10 @@
 🚀 Machine Learning & Data Science Cheat Sheet
 A comprehensive reference guide for ML practitioners, data scientists, and Hacktoberfest contributors
 
-https://img.shields.io/badge/Hacktoberfest-friendly-brightgreen
-https://img.shields.io/badge/Python-3.8%252B-blue
-https://img.shields.io/badge/License-MIT-lightgrey
+[![](https://img.shields.io/badge/Hacktoberfest-friendly-brightgreen)](https://img.shields.io/badge/Hacktoberfest-friendly-brightgreen)
+
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
+[![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
 
 📚 Table of Contents
 🔢 Core Libraries
